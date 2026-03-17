@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    border-radius: 3px;
+    background-color: aqua;
+    padding: 10px;
+    color: white;
+}
+button:hover{
+    background-color: green;
+    color: white;
+    transform: scale(1.2);
+    transition-duration: 1s;
+    transition: 1s;
+    transition-property: all;
+    transition-timing-function: ease;
+    border: 2px solid greenyellow;
+} */
+
+/* .box{
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: green;
+} */

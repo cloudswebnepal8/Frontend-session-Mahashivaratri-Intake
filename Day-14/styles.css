@@ -1,0 +1,46 @@
+/* universal selector */
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+body{
+    /* background-image: url("bpic.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed; */
+    background: url("bpic.jpg") repeat-x top scroll;
+
+
+  
+}
+/* element selector */
+button{
+    color: red;
+    background-color: yellow;
+    /* border: none; */
+}
+
+
+/* id selector */
+#heading2{
+    font-size: 14px;
+    /* color: greenyellow; */
+
+    /* intensity values=(0-255) */
+    color: rgb(255,0,0);
+
+}
+
+
+/* class selector */
+
+/* .heading3{
+    color: #31fc03;
+} */
+
+.content{
+    height: 100px;
+    width: 200px;
+    color: white;
+}
